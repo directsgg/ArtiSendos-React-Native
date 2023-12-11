@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# ArtiSendos-React-Native
+Código fuente de la app para el control mediante BLE del robot  con dos motores  basado en React Native
+
+>>>>>>> c434a2c37919977f3e6547ef696edc3ae007f9d9
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
